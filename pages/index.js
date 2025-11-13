@@ -1,10 +1,9 @@
 function Home() {
     return (
         <div>
-        <h1>Bem-vindo ao Next.js! 🚀</h1>
-        <p>Olá Mundo!</p>
+            <h1>Pedras do Horizonte 💎</h1>
         </div>
     );
-    }
+}
 
 export default Home;
